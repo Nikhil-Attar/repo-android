@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831902115228",
+    "firebase_url": "https://spectra-android-chat-app-7668.firebaseio.com",
+    "project_id": "spectra-android-chat-app-7668",
+    "storage_bucket": "spectra-android-chat-app-7668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831902115228:android:95f5ee2c212983a0",
+        "android_client_info": {
+          "package_name": "com.mayanknavjotnikhil.disguised.spectra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831902115228-6bcjkdam81blqeilngqfamqdqfrn3ctm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayanknavjotnikhil.disguised.spectra",
+            "certificate_hash": "13665b31a0bee400539b5658b4f5ac2b0f6fe986"
+          }
+        },
+        {
+          "client_id": "831902115228-29qar9e7936o5friauoeevkuod9t3jk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_WA2glMKHKCvsHz5ZnrS7_Otupa8AlE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831902115228-29qar9e7936o5friauoeevkuod9t3jk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
