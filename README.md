@@ -1,4 +1,6 @@
 # repo-android
-Contains Android packages for Udacity's Android Developer Nanodegree
+Android Packages built in Android Studio 3
 
-1. Weather App - Made using the OpenWeatherMap.org free Weather API Key
+1. Weather App (Udacity Nanodegree)
+2. Toy App (Udacity Nanodegree)
+3. Spectra Chat App (Integrated Project) [Contributed]
