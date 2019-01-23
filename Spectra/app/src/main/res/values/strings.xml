@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Spectra</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="string_enter_your_email" translatable="false">email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="image">image</string>
 </resources>
