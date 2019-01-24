@@ -6,4 +6,8 @@
     <string name="register">Register</string>
     <string name="login">Login</string>
     <string name="image">image</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="name_xyz_com">name@xyz.com</string>
 </resources>
