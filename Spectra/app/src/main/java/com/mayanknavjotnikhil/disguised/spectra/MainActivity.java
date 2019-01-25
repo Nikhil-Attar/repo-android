@@ -20,10 +20,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         requestWindowFeature(Window.FEATURE_NO_TITLE);
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         setContentView(R.layout.activity_main);
-        logo=(ImageView)findViewById(R.id.logo);
+        logo = findViewById(R.id.logo);
 
         new Handler().postDelayed(new Runnable() {
             @Override
@@ -34,8 +34,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }, SPLASH_TIME_OUT);
 
-        Animation myanim = AnimationUtils.loadAnimation(this,R.anim.fadesplash);
-        logo.startAnimation(myanim);
-
+        Animation myAnimation = AnimationUtils.loadAnimation(this, R.anim.fadesplash);
+        logo.startAnimation(myAnimation);
     }
 }
